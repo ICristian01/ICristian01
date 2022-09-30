@@ -1,5 +1,4 @@
-<a href="https://storyset.com/illustration/hand-coding/pana#407BFFFF&hide=&hide=complete" target="_blank" align="right" rel="noreferrer"><img src="util/girl.svg" width="400" height="400" align="right" alt="Source: Story Set"/></a>
-
+<img src=https://github.com/ICristian01/ICristian01/blob/main/assets/coding.svg width="300" height="300" align="right" />
 
 # Ionescu Cristian 👋
 
