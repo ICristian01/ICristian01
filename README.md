@@ -2,7 +2,7 @@
 
 # Ionescu Cristian 👋
 
-<h3>Computer Science student</h3>
+<h3>Creative and goal oriented student with a hardworking and analytical spirit, eager to learn more and deepen my knowledges.</h3>
 
 </br>
 
@@ -31,10 +31,12 @@
 
 </br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=icristian01&label=Profile%20views&color=0e75b6&style=flat" alt="icristian01" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/cristian-ionescu-61b7a7234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cristian-ionescu-61b7a7234" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100004613105580" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100004613105580" height="30" width="40" /></a>
 </p>
+
+</br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=icristian01&label=Profile%20views&color=0e75b6&style=flat" alt="icristian01" /> </p>
