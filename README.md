@@ -1,7 +1,9 @@
-### Hi there 👋
+<a href="https://storyset.com/illustration/hand-coding/pana#407BFFFF&hide=&hide=complete" target="_blank" align="right" rel="noreferrer"><img src="util/girl.svg" width="400" height="400" align="right" alt="Source: Story Set"/></a>
 
-<!--
-**ICristian01/ICristian01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+# Ionescu Cristian 👋
+
+**'Computer Science student'**
 
 Here are some ideas to get you started:
 
