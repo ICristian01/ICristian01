@@ -2,7 +2,7 @@
 
 # Ionescu Cristian 👋
 
-<h3>Creative and goal oriented student with a hardworking and analytical spirit, eager to learn more and deepen my knowledges.</h3>
+<h3>Creative and goal oriented professional with a hardworking and analytical spirit, eager to learn more and deepen my knowledges.</h3>
 
 </br>
 
